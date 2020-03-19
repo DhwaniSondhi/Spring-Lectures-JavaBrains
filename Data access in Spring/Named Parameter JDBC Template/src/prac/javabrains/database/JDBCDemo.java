@@ -22,8 +22,12 @@ public class JDBCDemo {
 		System.out.println(circle.getName());
 		  
 		 */
+		dao.insertCircle(new Circle(1, "First"));
+		dao.insertCircle(new Circle(2, "Second"));
 		dao.insertCircle(new Circle(3, "Third"));
-		dao.createTriangleTable();
+		dao.insertCircle(new Circle(4, "Fourth"));
+		dao.insertCircle(new Circle(5, "Fifth"));
+		//dao.createTriangleTable();
 		System.out.print(dao.getCircleCount());
 	}
 }
