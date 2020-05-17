@@ -1,5 +1,5 @@
 # Spring Lectures
-This repository consists of lectures learned using [JavaBrains](https://javabrains.io/). 
+This repository consists of lectures learned from [JavaBrains](https://javabrains.io/). 
 
 ### Prerequites
 - Java 8
