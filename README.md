@@ -1,4 +1,4 @@
-# Spring Boot Lectures
+# Spring Lectures
 This repository consists of lectures learned using [JavaBrains](https://javabrains.io/). 
 
 ### Prerequites
