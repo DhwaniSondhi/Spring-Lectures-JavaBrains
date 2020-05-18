@@ -5,7 +5,7 @@ This repository consists of lectures learned from [JavaBrains](https://javabrain
 - Java 8
 - Eclipse IDE
 - Git
-- Maven Plugin 3.1.1
+- Maven Plugin 
 
 ### Lectures
 1. [Aspect Oriented Programming](https://github.com/DhwaniSondhi/SpringLearnJavaBrains/tree/master/Aspect%20Oriented%20Programming)
