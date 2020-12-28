@@ -1,7 +1,7 @@
 # Spring Lectures
 This repository consists of lectures learned from [JavaBrains](https://javabrains.io/). 
 
-### Prerequites
+### Prerequisites
 - Java 8
 - Eclipse IDE
 - Git
